@@ -14,6 +14,7 @@ The PCI collects data to verify if and how the element was used :
 
 The results are in JSON format.
 <br/> it is storing the info : the animation button has been clicked (true or false)
+<br/> Example : {"animation" : false}
 
 
 
