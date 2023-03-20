@@ -2,7 +2,12 @@
 Copyright DEPP © 2017 - Ministère de l'éducation nationale 
 */
 
+
 /*add some style, need to scope (using the typeIdentifier as class prefix) every style declaration to prevent collision */
+
+.maraissalantInteraction {
+    background: white;
+}
 
 .qti-customInteraction .maraissalant .msanswer {
     display: none;
@@ -16,18 +21,18 @@ Copyright DEPP © 2017 - Ministère de l'éducation nationale
     height: 400px;
 }
 
-.qti-customInteraction .maraissalant .mstexto{ 
+.qti-customInteraction .maraissalant .mstexto {
     text-align: justify;
-    width : 300px;
-    margin-top : 55px;
-    position:absolute;
- }
+    width: 300px;
+    margin-top: 55px;
+    position: absolute;
+}
 
-.qti-customInteraction .maraissalant .mstexto1{
+.qti-customInteraction .maraissalant .mstexto1 {
     margin-left: 77px;
 }
 
-.qti-customInteraction .maraissalant .mstexto2{
+.qti-customInteraction .maraissalant .mstexto2 {
     margin-left: 557px;
 }
 
@@ -196,4 +201,3 @@ Copyright DEPP © 2017 - Ministère de l'éducation nationale
 .qti-customInteraction .maraissalant .granos {
     position: absolute;
 }
-
